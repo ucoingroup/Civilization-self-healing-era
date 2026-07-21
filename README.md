@@ -82,4 +82,4 @@ https://ucoingroup.github.io/eaco50rate/
 
 Civilization self-healing era,
 
-You need to allow yourself to earn 800 million USD,
+You need to allow yourself to earn 80 million USD,
