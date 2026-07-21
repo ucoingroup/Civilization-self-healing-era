@@ -70,4 +70,9 @@ Civilization self-healing era,Epoch of Civilizational Self-Healing
 5. 内外联动调节算法，同步缓释地缘冲突与内部失衡；
 6. 周期性自动微调迭代，实现系统永续自愈，彻底终结治乱循环。
 
-(《EACO：文明自愈纪元》 科幻小说参考素材，仅供参考。)
+(《EACO：文明自愈纪元》 科幻小说参考素材，仅供参考。eaco2cc@gmail.com )
+
+
+EACO 50国预言机汇率,eaco Solana Chain · FX Oracle · 实时参考汇率
+
+https://ucoingroup.github.io/eaco50rate/
