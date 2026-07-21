@@ -69,5 +69,5 @@ Civilization self-healing era,Epoch of Civilizational Self-Healing
 4. 自动兜底救助合约，实时守护底层生存，维系全域民心信任；
 5. 内外联动调节算法，同步缓释地缘冲突与内部失衡；
 6. 周期性自动微调迭代，实现系统永续自愈，彻底终结治乱循环。
-7. 
+
 (《EACO：文明自愈纪元》 科幻小说参考素材，仅供参考。)
