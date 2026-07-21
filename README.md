@@ -6,7 +6,7 @@ Civilization self-healing era,Epoch of Civilizational Self-Healing
 
 <img width="767" height="552" alt="eaco novel 2025 image" src="https://github.com/user-attachments/assets/4cf4ccc0-01c8-4566-a1fb-79024272af26" />
 
- 如何打破历史治乱循环的怪圈？
+ 如何打破历史治乱循环的怪圈？《创世协议：EACO纪元》2025,《EACO：文明自愈纪元》2025，
 
  # 如何打破传统文明治乱循环怪圈
 先厘清治乱循环的底层根源：传统农耕文明是**封闭静态系统，缺少常态化、非暴力的自我修复机制**。土地兼并、财政失衡、官僚利益固化、民心持续透支、外部压力放大内部矛盾层层叠加，矛盾堆积到临界点，只能靠战乱、改朝换代这种毁灭性重置来清空积弊，循环往复。想要彻底打破这套闭环，需要从制度、分配、监督、治理、价值五大维度搭建长效自愈体系，对应现代治理逻辑，同时区分古代局限与当代可行解法：
