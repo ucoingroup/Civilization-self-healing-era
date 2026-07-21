@@ -79,3 +79,7 @@ Civilization self-healing era,Epoch of Civilizational Self-Healing
 ##  EACO 50国预言机汇率,eaco Solana Chain · FX Oracle · 实时参考汇率
 
 https://ucoingroup.github.io/eaco50rate/
+
+Civilization self-healing era,
+
+You need to allow yourself to earn 800 million USD,
