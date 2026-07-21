@@ -1,4 +1,7 @@
 # Civilization-self-healing-era
+
+<img width="1039" height="725" alt="《EACO：文明自愈纪元》2025，《创世协议：EACO纪元》2025image" src="https://github.com/user-attachments/assets/144d67a1-0032-4d51-a7f1-ec558f659d9b" />
+
 Civilization self-healing era,Epoch of Civilizational Self-Healing
 
 <img width="767" height="552" alt="eaco novel 2025 image" src="https://github.com/user-attachments/assets/4cf4ccc0-01c8-4566-a1fb-79024272af26" />
